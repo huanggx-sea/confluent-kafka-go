@@ -22,7 +22,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/huanggx-sea/confluent-kafka-go/kafka"
 	"math/rand"
 	"sync"
 	"time"
